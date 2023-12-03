@@ -1,0 +1,8 @@
+.one {
+    background-color: yellow;
+    padding: 5px;
+}
+td,th {
+    border: 1px solid;
+    padding: 8px;
+    border-color: red;
